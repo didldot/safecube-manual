@@ -7,6 +7,7 @@ export default defineConfig({
   base: '/safecube-manual/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    logo: '/safecube_logo.svg',
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Examples', link: '/markdown-examples' }
