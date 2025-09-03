@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Safecube User Manual",
   description: "User Manual for Safecube Users",
+  base: '/safecube-manual/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
