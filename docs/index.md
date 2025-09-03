@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "Safecube User Manual"
-  text: "User Manual for Safecube Users"
-  tagline: My great project tagline
+  name: "Safecube Benutzerhandbuch"
+  text: ""
+  tagline: Für die Admin Oberfläche
   actions:
     - theme: brand
       text: Markdown Examples
@@ -13,6 +13,9 @@ hero:
     - theme: alt
       text: API Examples
       link: /api-examples
+    - theme: brand
+      text: Authentifizierung und Rollen
+      link: /Authentifizierung%20und%20Rollen
 
 features:
   - title: Feature A
