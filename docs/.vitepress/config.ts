@@ -31,6 +31,15 @@ export default defineConfig({
           { text: 'Buchung Detail', link: 'admin/buchung detail' },
           { text: 'Belegungen', link: 'admin/belegungen' },
           { text: 'Belegung Detail', link: 'admin/belegung detail' },
+          { text: 'Standorte', link: 'admin/standorte' },
+          { text: 'Standort anlegen (= Einstellungen Tab)', link: 'admin/standort%20anlegen%20(=%20einstellungen%20tab)'},
+          { text: 'Standorte Cubes Tab', link: 'admin/standorte%20cubes%20tab' },
+          { text: 'Standorte Buchung Tab', link: 'admin/standorte%20buchung%20tab' },
+          { text: 'Standorte Fächer Tab', link: 'admin/standorte%20fächer%20tab' },
+          { text: 'Standorte Preise Tab', link: 'admin/standorte%20preise%20tab' },
+          { text: 'Standorte Zugang Tab', link: 'admin/standorte%20zugang%20tab' },
+          { text: 'Standorte Text Tab', link: 'admin/standorte%20text%20tab' },
+          { text: 'Standorte Änderungshistorie Tab', link: 'admin/standorte%20änderungshistorie%20tab' },
         ]
       }
 
