@@ -40,6 +40,12 @@ export default defineConfig({
           { text: 'Standorte Zugang Tab', link: 'admin/standorte%20zugang%20tab' },
           { text: 'Standorte Text Tab', link: 'admin/standorte%20text%20tab' },
           { text: 'Standorte Änderungshistorie Tab', link: 'admin/standorte%20änderungshistorie%20tab' },
+          { text: 'Cubes', link: 'admin/cubes' },
+          { text: 'Cubes Fächer Tab', link: 'admin/cubes%20fächer%20tab' },
+          { text: 'Cubes Standorte Tab', link: 'admin/cubes%20standorte%20tab' },
+          { text: 'Cubes Codes Tab', link: 'admin/cubes%20codes%20tab' },
+          { text: 'Cubes QR-Code Tab', link: 'admin/cubes%20qr-code%20tab' },
+          { text: 'Cubes Fächer freigeben', link: 'admin/cubes%20fächer%20freigeben' },
         ]
       }
 

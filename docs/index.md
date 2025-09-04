@@ -19,7 +19,7 @@ hero:
 
 features:
   - title: Admin Benutzerhandbuch
-    details: Bitte oben auf "Admin" klicken, um das Benutzerhandbuch für die Admin-Oberfläche zu sehen.
+    details: Es werden alle Masken im Detail erklärt.
   - title: Feature B
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Feature C
