@@ -1,6 +1,6 @@
 # Standort anlegen (= Einstellungen Tab)
 
-![grafik.png](assets/standort%20anlegen%20(=%20einstellungen%20tab)//grafik.png)
+![grafik.png](assets/standort%20anlegen%20(=%20einstellungen%20tab)/grafik.png)
 
 ![grafik.png](assets/standort%20anlegen%20(=%20einstellungen%20tab)/grafik%201.png)
 
