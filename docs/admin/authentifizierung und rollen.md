@@ -8,9 +8,13 @@ Das System nutzt ausschließlich Basic Authentication. Benutzername und Passwort
 
 Benutzer mit den Rollen SuperUser und TenantAdmin sind berechtigt, neue Benutzer anzulegen und ihnen Rollen zuzuweisen. Neue Benutzer werden ausschließlich durch diese Administratoren erstellt – eine Selbstregistrierung ist nicht möglich.
 
-![Login für den Admin-Bereich](assets/authentifizierung%20und%20rollen/grafik.png)
-
 Login für den Admin-Bereich
+
+<ImageCaption
+  src="../admin/assets/authentifizierung%20und%20rollen/grafik.png"
+  caption="Login für den Admin-Bereich"
+  alt="Passwort zurücksetzen"
+/>
 
 # Arten von Rollen
 

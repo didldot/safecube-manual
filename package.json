@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Manual for Safecube Users",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "docs:dev": "vitepress dev docs",
@@ -13,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "vitepress": "^2.0.0-alpha.12"
+    "vitepress": "^2.0.0-alpha.12",
+    "vue": "^3.5.21"
   }
 }
