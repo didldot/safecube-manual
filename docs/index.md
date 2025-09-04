@@ -12,7 +12,7 @@ hero:
       link: admin/wording%20und%20begriffe
     - theme: alt
       text: Authentifizierung und Rollen
-      link: /Authentifizierung%20und%20Rollen
+      link: admin/authentifizierung%20und%20rollen
 
 features:
 #  - title: Admin Benutzerhandbuch

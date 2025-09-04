@@ -10,7 +10,7 @@ export default defineConfig({
     logo: '/safecube_logo.svg',
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Admin', link: '/admin/authentifizierung und rollen'}
+      { text: 'Admin', link: '/admin/authentifizierung%20und%20rollen'}
     ],
 
     sidebar: [
