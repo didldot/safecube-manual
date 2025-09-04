@@ -18,8 +18,8 @@ hero:
       link: /Authentifizierung%20und%20Rollen
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Admin Benutzerhandbuch
+    details: Bitte oben auf "Admin" klicken, um das Benutzerhandbuch für die Admin-Oberfläche zu sehen.
   - title: Feature B
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Feature C
