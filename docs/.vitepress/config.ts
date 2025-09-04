@@ -46,6 +46,8 @@ export default defineConfig({
           { text: 'Cubes Codes Tab', link: 'admin/cubes%20codes%20tab' },
           { text: 'Cubes QR-Code Tab', link: 'admin/cubes%20qr-code%20tab' },
           { text: 'Cubes Fächer freigeben', link: 'admin/cubes%20fächer%20freigeben' },
+          { text: 'Konten', link: 'admin/konten' },
+          { text: 'Konto Detail', link: 'admin/konto%20detail'}
         ]
       }
 
