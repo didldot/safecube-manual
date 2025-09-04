@@ -1,11 +1,5 @@
-<template>
-  <figure>
-    <img :src="src" :alt="alt" />
-    <figcaption>{{ caption }}</figcaption>
-  </figure>
-</template>
-
 <script setup>
+import {withBase} from 'vitepress' 
 const props = defineProps({
   src: {
     type: String,
@@ -21,6 +15,15 @@ const props = defineProps({
   },
 });
 </script>
+
+<template>
+  <figure>
+    <img :src="withBase(src)" :alt="alt" />
+    <figcaption>{{ caption }}</figcaption>
+  </figure>
+</template>
+
+
 
 <style scoped>
 figure {

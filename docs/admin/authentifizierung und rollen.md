@@ -10,7 +10,11 @@ Benutzer mit den Rollen SuperUser und TenantAdmin sind berechtigt, neue Benutzer
 
 Login für den Admin-Bereich
 
-![grafik.png](assets/authentifizierung-und-rollen/grafik.png)
+<ImageCaption
+    src="/admin/assets/grafik.png"
+    alt="Login"
+    caption="Login"
+/>
 
 # Arten von Rollen
 
@@ -23,7 +27,11 @@ Es gibt folgende Benutzerrollen:
 
 Die Rolle des aktuell eingeloggten Benutzers wird in der oberen linken Ecke der Benutzeroberfläche angezeigt.
 
-![grafik.png](assets/authentifizierung-und-rollen/grafik1.png)
+<ImageCaption
+    src="/admin/assets/grafik1.png"
+    alt="Anzeige der Rolle des angemeldeten Benutzers"
+    caption="Anzeige der Rolle des angemeldeten Benutzers"
+/>
 
 # Berechtigungen Admin-Bereich
 
