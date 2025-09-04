@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Safecube User Manual",
+  title: "Safecube Benutzerhandbuch",
   description: "User Manual for Safecube Users",
   base: '/safecube-manual/',
   themeConfig: {
@@ -10,18 +10,10 @@ export default defineConfig({
     logo: '/safecube_logo.svg',
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' },
       { text: 'Admin', link: '/admin/authentifizierung und rollen'}
     ],
 
     sidebar: [
-      {
-        text: 'Examples',
-        items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
-        ]
-      },
       {
         text: 'Admin',
         items: [

@@ -5,24 +5,19 @@ layout: home
 hero:
   name: "Safecube Benutzerhandbuch"
   text: ""
-  tagline: Für die Admin Oberfläche
+  tagline: Die Oberfläche im Detail
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Wording und Begriffe
+      link: admin/wording%20und%20begriffe
     - theme: alt
-      text: API Examples
-      link: /api-examples
-    - theme: brand
       text: Authentifizierung und Rollen
       link: /Authentifizierung%20und%20Rollen
 
 features:
-  - title: Admin Benutzerhandbuch
-    details: Es werden alle Masken im Detail erklärt.
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#  - title: Admin Benutzerhandbuch
+#    details: Es werden alle Masken im Detail erklärt.
+#  - title: Admin Benutzerhandbuch
+#    details: Es werden alle Masken im Detail erklärt.
 ---
 
