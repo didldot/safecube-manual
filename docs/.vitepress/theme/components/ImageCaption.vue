@@ -1,5 +1,18 @@
+
+<template>
+  <figure>
+    <img :src="imagePath" :alt="alt" />
+    <figcaption>{{ caption }}</figcaption>
+  </figure>
+</template>
+
+
 <script setup>
-import {withBase} from 'vitepress' 
+import {withBase} from 'vitepress';
+import {computed} from "vue";
+
+const path = "/admin/assets/";
+
 const props = defineProps({
   src: {
     type: String,
@@ -14,15 +27,9 @@ const props = defineProps({
     required: true,
   },
 });
+
+const imagePath = computed(() => withBase(path + props.src));
 </script>
-
-<template>
-  <figure>
-    <img :src="withBase(src)" :alt="alt" />
-    <figcaption>{{ caption }}</figcaption>
-  </figure>
-</template>
-
 
 
 <style scoped>

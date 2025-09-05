@@ -15,8 +15,8 @@ hero:
       link: admin/authentifizierung%20und%20rollen
 
 features:
-#  - title: Admin Benutzerhandbuch
-#    details: Es werden alle Masken im Detail erklärt.
+  - title: Safecube GPT
+    details: Für den <a href="">Admin Bereich</a>
 #  - title: Admin Benutzerhandbuch
 #    details: Es werden alle Masken im Detail erklärt.
 ---
