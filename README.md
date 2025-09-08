@@ -1,3 +1,8 @@
+## Configuration
+- project root: /docs (contains `.vitepress`)
+- project source: /admin (contains the `.md` files)
+- the `public` folder contains the assets (images, icons, etc.)
+
 ## Vue
 
 ### Options API vs Composition API
