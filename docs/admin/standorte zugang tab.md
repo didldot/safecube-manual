@@ -1,75 +1,92 @@
 # Standorte/Zugang Tab
 
-![grafik.png](assets/standorte%20zugang%20tab/grafik.png)
+<ImageCaption
+src="/standorte-zugang-tab/grafik.png"
+alt="Übersicht Standorte / Zugang"
+caption="Übersicht Standorte / Zugang"
+/>
 
-![grafik.png](assets/standorte%20zugang%20tab/grafik%201.png)
-
-# Zugangszeiten
+## Zugangszeiten
 
 Die Zugangszeiten werden bei der Online-Buchung und in dem E-Mails angezeigt.
 
-## Immer zugänglich (24/7)
+### Immer zugänglich (24/7)
 
 Wenn diese Option aktiviert ist, ist der Zugang zum Cube jederzeit möglich.
 
-In diesem Fall sind keine Einstellungen bei [Generelle Zugangszeiten](https://www.notion.so/Generelle-Zugangszeiten-25eadd09e873809e9e70e86973172a08?pvs=21) und [Zugangszeiten je Wochentag](https://www.notion.so/Zugangszeiten-je-Wochentag-25eadd09e873800fa19ee1d84fd7e18f?pvs=21) erforderlich und möglich.
+In diesem Fall sind keine Einstellungen bei [Generelle Zugangszeiten](#Generelle-Zugangszeiten) und [Zugangszeiten je Wochentag](#zugangszeiten-je-wochentag) erforderlich und möglich.
 
-## Generelle Zugangszeiten
 
-Einstellung nur möglich, wenn [Immer zugänglich (24/7)](https://www.notion.so/Immer-zug-nglich-24-7-25eadd09e87380bd91fdd1e93a4d9956?pvs=21) nicht aktiviert ist.
 
-Hier kann die generelle Zugangszeit eingetragen werden. Diese zieht dann, wenn sie nicht bei [Zugangszeiten je Wochentag](https://www.notion.so/Zugangszeiten-je-Wochentag-25eadd09e873800fa19ee1d84fd7e18f?pvs=21) überschrieben wird.
+### Generelle Zugangszeiten
+
+Einstellung nur möglich, wenn [Immer zugänglich (24/7)](#immer-zugänglich-24-7) nicht aktiviert ist.
+
+Hier kann die generelle Zugangszeit eingetragen werden. Diese zieht dann, wenn sie nicht bei [Zugangszeiten je Wochentag](#zugangszeiten-je-wochentag) überschrieben wird.
 
 Diese Zugangszeit gilt von Montag bis Sonntag.
 
-## Zugangszeiten je Wochentag
+### Zugangszeiten je Wochentag
 
-Einstellung nur möglich, wenn [Immer zugänglich (24/7)](https://www.notion.so/Immer-zug-nglich-24-7-25eadd09e87380bd91fdd1e93a4d9956?pvs=21) nicht aktiviert ist.
+Einstellung nur möglich, wenn [Immer zugänglich (24/7)](#immer-zugänglich-24-7) nicht aktiviert ist.
 
-Hier kann die Zugangszeit für jeden Wochentag festgelegt werden. Wenn bei einem Tag nicht eingetragen ist, dann zieht die Zeit von [Generelle Zugangszeiten](https://www.notion.so/Generelle-Zugangszeiten-25eadd09e873809e9e70e86973172a08?pvs=21).
+Hier kann die Zugangszeit für jeden Wochentag festgelegt werden. Wenn bei einem Tag nicht eingetragen ist, dann zieht die Zeit von [Generelle Zugangszeiten](#generelle-zugangszeiten).
 
-Falls an einem Tag gar kein Zugang möglich ist, dann diesen Wochentag leer lassen - und es darf auch kein Zeitraum bei den [Generelle Zugangszeiten](https://www.notion.so/Generelle-Zugangszeiten-25eadd09e873809e9e70e86973172a08?pvs=21) eingetragen sein. 
+Falls an einem Tag gar kein Zugang möglich ist, dann diesen Wochentag leer lassen - und es darf auch kein Zeitraum bei den [Generelle Zugangszeiten](#generelle-zugangszeiten) eingetragen sein. 
 
-## Beispiele für Anzeige der Zugangszeiten
+### Beispiele für Anzeige der Zugangszeiten
 
-Anzeige der Zugangszeiten bei der Online-Buchung:
+Im folgenden sind einige Beispiele für die Anzeige der Zugangszeiten bei der Online-Buchung dargestellt.
 
-![Konfiguration der Zugangszeiten](assets/standorte%20zugang%20tab/grafik%202.png)
+#### Beispiel 1
 
-Konfiguration der Zugangszeiten
-
-![Anzeige der Zugangszeiten bei der Online-Buchung](assets/standorte%20zugang%20tab/grafik%203.png)
-
-Anzeige der Zugangszeiten bei der Online-Buchung
-
----
-
-![Konfiguration der Zugangszeiten](assets/standorte%20zugang%20tab/grafik%204.png)
-
-Konfiguration der Zugangszeiten
-
-![Anzeige der Zugangszeiten bei der Online-Buchung](assets/standorte%20zugang%20tab/grafik%205.png)
-
-Anzeige der Zugangszeiten bei der Online-Buchung
+<ImageCaption 
+    src="/standorte-zugang-tab/grafik2.png" 
+    alt="Bsp. 1: Konfiguration der Zugangszeiten:" 
+    caption="Bsp. 1: Konfiguration der Zugangszeiten:" 
+/>
+<ImageCaption
+    src="/standorte-zugang-tab/grafik3.png"
+    alt="Bsp. 1: Anzeige der Zugangszeiten:"
+    caption="Bsp. 1: Anzeige der Zugangszeiten:"
+/>
 
 ---
 
-![Konfiguration der Zugangszeiten (24/7)](assets/standorte%20zugang%20tab/grafik%206.png)
+#### Beispiel 2
 
-Konfiguration der Zugangszeiten (24/7)
+<ImageCaption
+    src="/standorte-zugang-tab/grafik4.png"
+    alt="Bsp. 2: Konfiguration der Zugangszeiten:"
+    caption="Bsp. 2: Konfiguration der Zugangszeiten:"
+/>
+<ImageCaption
+    src="/standorte-zugang-tab/grafik5.png"
+    alt="Bsp. 2: Anzeige der Zugangszeiten:"
+    caption="Bsp. 2: Anzeige der Zugangszeiten:"
+/>
 
-![Anzeige der Zugangszeiten bei der Online-Buchung](assets/standorte%20zugang%20tab/grafik%207.png)
+---
 
-Anzeige der Zugangszeiten bei der Online-Buchung
+#### Beispiel 3
 
-# Zugangsbeschreibung
+<ImageCaption
+src="/standorte-zugang-tab/grafik6.png"
+alt="Bsp. 3: Konfiguration der Zugangszeiten (24/7)"
+caption="Bsp. 3: Konfiguration der Zugangszeiten (24/7)"
+/>
+<ImageCaption
+src="/standorte-zugang-tab/grafik7.png"
+alt="Bsp. 3: Anzeige der Zugangszeiten (24/7)"
+caption="Bsp. 3: Anzeige der Zugangszeiten (24/7)"
+/>
+
+## Zugangsbeschreibung
 
 Diese Beschreibung wird bei Online-Buchung angezeigt.
 
-![Die Zugangsbeschreibung bei der Online-Buchung](assets/standorte%20zugang%20tab/grafik%208.png)
-
-Die Zugangsbeschreibung bei der Online-Buchung
-
-# Externes Zugangssystem (obsolet)
-
-Wird aktuell nicht verwendet und auch entfernt, soll daher nicht genauer beschrieben werden (funktionierte etwa so: Buchungscode wird an Storebox geschickt damit man diesem dann am Keypad eingeben kann).
+<ImageCaption
+    src="/standorte-zugang-tab/grafik8.png"
+    alt="Die Zugangsbeschreibung bei der Online-Buchung."
+    caption="Die Zugangsbeschreibung bei der Online-Buchung."
+/>
