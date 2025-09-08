@@ -14,7 +14,7 @@ Folgende Daten können im Filter eingestellt werden:
 - Von-Bis: Bei Auswahl von "benutzerdefiniert" im Zeitraum-Filter können Start- und Enddatum manuell eingetragen werden.
 - Standort: Auswahl des Standorts
 
-::: tip
+::: tip TIPP
 Für die Anzeige detaillierter Daten bewegen Sie den Mauszeiger über das Diagramm.
 :::
 

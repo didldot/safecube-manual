@@ -40,7 +40,8 @@ export default defineConfig({
           { text: 'Cubes Fächer freigeben', link: 'admin/cubes%20fächer%20freigeben' },
           { text: 'Konten', link: 'admin/konten' },
           { text: 'Konto Detail', link: 'admin/konto%20detail'},
-          { text: 'Statistik', link: 'admin/statistik' }
+          { text: 'Statistik', link: 'admin/statistik' },
+          { text: 'Zahlungen', link: 'admin/zahlungen' }
         ]
       }
 
