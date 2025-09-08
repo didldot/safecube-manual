@@ -41,7 +41,10 @@ export default defineConfig({
           { text: 'Konten', link: 'admin/konten' },
           { text: 'Konto Detail', link: 'admin/konto%20detail'},
           { text: 'Statistik', link: 'admin/statistik' },
-          { text: 'Zahlungen', link: 'admin/zahlungen' }
+          { text: 'Zahlungen', link: 'admin/zahlungen' },
+          { text: 'Benutzer', link: 'admin/benutzer' },
+          { text: 'Benutzer Detail', link: 'admin/benutzer%20detail' },
+          { text: 'Benutzer erstellen', link: 'admin/benutzer%20erstellen' },
         ]
       }
 
