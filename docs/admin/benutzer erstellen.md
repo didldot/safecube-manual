@@ -1,7 +1,5 @@
 # Benutzer erstellen
 
-![grafik.png](Benutzer%20erstellen%20268add09e873808c9736ff3b043d1404/grafik.png)
-
 <ImageCaption
     src="/benutzer-erstellen/grafik.png"
     alt="Statistik-Filter"
