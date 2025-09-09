@@ -18,6 +18,7 @@ export default defineConfig({
         text: 'Admin',
         items: [
           { text: 'Authentifizierung und Rollen', link: 'admin/authentifizierung und rollen' },
+          { text: 'Dashboard', link: 'admin/dashboard' },
           { text: 'Buchungen', link: 'admin/buchungen' },
           { text: 'Buchung erstellen', link: 'admin/buchung erstellen' },
           { text: 'Buchung Detail', link: 'admin/buchung detail' },
