@@ -1,26 +1,30 @@
 # Buchungen
 
-![Buchungen Tabelle - Übersicht](assets/buchungen/grafik.png)
+<ImageCaption
+    src="/buchungen/grafik.png"
+    alt="Tabelle Buchungen"
+    caption="Tabelle Buchungen"
+/>
 
-Buchungen Tabelle - Übersicht
-
-# Tabelle
+## Tabelle Buchungen
 
 Folgende Spalten werden in der Tabelle angezeigt:
 
 - Status: der Status der Buchung
-- Name: zeigt den Namen des Enlehners an (wenn es den nicht gibt, wird die E-Mail angezeigt, sonst die Telefonnummer, sonst das Konto und wenn es den auch nicht gibt, dann der Buchungscode). Mit Verlinkung zu [Buchungsdetail](https://www.notion.so/Buchung-Detail-261add09e87380eb95fad28479ea3e7e?pvs=21)
-- Buchungscode: mit Verlinkung zu [Buchungsdetail](https://www.notion.so/Buchung-Detail-261add09e8738046b43fef46c77e0af3?pvs=21)
+- Name: zeigt den Namen des Enlehners an (wenn es den nicht gibt, wird die E-Mail angezeigt, sonst die Telefonnummer, sonst das Konto und wenn es den auch nicht gibt, dann der Buchungscode). Mit Verlinkung zu [Buchungsdetail](buchung%20detail.md)
+- Buchungscode: mit Verlinkung zu [Buchungsdetail](buchung%20detail.md)
 - Standort
 - Von-Bis: Zeitraum der Buchung
 
-## Filter für die Tabelle
+### Filter für die Tabelle
 
-![Buchungen-Tabelle mit Filter](assets/buchungen/grafik%201.png)
+<ImageCaption
+    src="/buchungen/grafik1.png"
+    alt="Buchungen-Tabelle mit Filter"
+    caption="Buchungen-Tabelle mit Filter"
+/>
 
-Buchungen-Tabelle mit Filter
-
-Der Filter kann mit eine Klick auf das Filtersymbol oder Pfeilchen geöffnet bzw. geschlossen  werden.
+Der Filter kann mit einem Klick auf das Filtersymbol oder Pfeilchen geöffnet bzw. geschlossen werden.
 
 Die Tabelle kann nach folgenden Kriterien gefiltert werden:
 
@@ -31,23 +35,27 @@ Die Tabelle kann nach folgenden Kriterien gefiltert werden:
 
 Zusätzlich zu den auswählbaren Filtern gibt es auch eine Volltextsuche. Damit können die ausgewählten Filter weiter verfeinert werden. 
 
-# Buchung erstellen
+## Buchung erstellen
 
-Siehe “[Buchung erstellen](https://www.notion.so/Buchung-erstellen-261add09e87380b68c26d81b4cbb3956?pvs=21)”. 
+Siehe [Buchung erstellen](buchung%20erstellen.md). 
 
-# CSV Exportieren
+## CSV Exportieren
 
 Mit dieser Funktion lässt sich die Tabelle als CSV-Datei exportieren. Es werden nur die Einträge exportiert, die aktuell am Bildschirm angezeigt werden (entsprechend der gesetzten Filter).
 
 Bevor die Datei erzeugt wird, kann der Benutzer festlegen, welche Trenn- und Dezimalzeichen in der CSV-Datei verwendet werden sollen.
 
-![AbfrageTrenn- und Dezimalzeichen](assets/buchungen/grafik_sync.png)
+<ImageCaption
+    src="/buchungen/grafik_sync.png"
+    alt="Abfrage Trenn- und Dezimalzeichen"
+    caption="Abfrage Trenn- und Dezimalzeichen"
+/>
 
-AbfrageTrenn- und Dezimalzeichen
-
-![Beispiel für eine CSV-Datei (Spalten nicht vollsändig)](assets/buchungen/grafik%202.png)
-
-Beispiel für eine CSV-Datei (Spalten nicht vollsändig)
+<ImageCaption
+    src="/buchungen/grafik2.png"
+    alt="Beispiel für eine CSV-Datei (Spalten nicht vollständig)"
+    caption="Beispiel für eine CSV-Datei (Spalten nicht vollständig)"
+/>
 
 Folgende Spalten werden exportiert:
 

@@ -1,6 +1,10 @@
 # Buchung erstellen
 
-![grafik.png](assets/buchung%20erstellen/grafik.png)
+<ImageCaption
+    src="/buchung-erstellen/grafik.png"
+    alt="Buchung erstellen Übersicht"
+    caption="Buchung erstellen Übersicht"
+/>
 
 Folgende Felder stehen bei der Buchungserstellung zur Verfügung:
 
@@ -11,18 +15,27 @@ Folgende Felder stehen bei der Buchungserstellung zur Verfügung:
 - Telefonnummer
 - Fächer auswählen: Diese Ansicht variiert je nach verfügbaren Fächern im ausgewählten Cube
 
-# Erfolgreiche Anlage der Buchung
+## Erfolgreiche Anlage der Buchung
 
-Wenn die Buchung erfolgreich erstellt wurde, dann wird die [Detailansicht der Buchung](https://www.notion.so/Buchung-Detail-261add09e8738046b43fef46c77e0af3?pvs=21) angezeigt.
+Wenn die Buchung erfolgreich erstellt wurde, wird die [Detailansicht der Buchung](buchung%20detail.md) angezeigt.
 
 ![Beispiel für Detailansicht der Buchung](assets/buchung%20erstellen/grafik%201.png)
 
-Beispiel für Detailansicht der Buchung
+<ImageCaption
+    src="/buchung-erstellen/grafik1.png"
+    alt="Detailansicht der Buchung"
+    caption="Detailansicht der Buchung"
+/>
 
-# Buchung kann nicht erstellt werden
+## Buchung kann nicht erstellt werden
 
 Falls nicht alle zwingend notwendigen Daten eingegeben wurden und daher keine Buchung erstellt werden kann, wird eine entsprechende Meldung angezeigt.
 
 ![Buchung konnte nicht erstellt werden, weil das Datum fehlt](assets/buchung%20erstellen/grafik%202.png)
 
-Buchung konnte nicht erstellt werden, weil das Datum fehlt
+<ImageCaption
+    src="/buchung-erstellen/grafik2.png"
+    alt="Buchung konnte nicht erstellt werden, weil das Datum fehlt"
+    caption="Buchung konnte nicht erstellt werden, weil das Datum fehlt"
+/>
+
