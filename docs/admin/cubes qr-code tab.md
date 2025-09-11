@@ -1,7 +1,11 @@
 # Cubes/QR-Code Tab
 
-![grafik.png](assets/cubes%20qr-code%20tab/grafik.png)
+<ImageCaption
+    src="/cubes-qr-code-tab/grafik.png"
+    alt="QR-Code"
+    caption="QR Code"
+/>
 
-# Speichern
+## Speichern
 
 Damit kann der QR-Code gespeichert und ausgedruckt werden.

@@ -1,5 +1,9 @@
 # Standorte/Änderungshistorie Tab
 
-![grafik.png](assets/standorte%20änderungshistorie%20tab/grafik.png)
+<ImageCaption
+    src="/standorte-änderungshistorie-tab/grafik.png"
+    alt="Übersicht Standorte Änderungshistorie"
+    caption="Übersicht Standorte Änderungshistorie"
+/>
 
 Hier wird eine Übersicht der wichtigsten Änderungen chronologisch angezeigt.

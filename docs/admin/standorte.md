@@ -1,6 +1,10 @@
 # Standorte
 
-![grafik.png](assets/standorte/grafik.png)
+<ImageCaption
+    src="/standorte/grafik.png"
+    alt="Standorte Tabelle"
+    caption="Standorte Tabelle"
+/>
 
 Ein Klick auf "Standorte" im Hauptmenü zeigt eine Übersicht aller dem Mandanten zugewiesenen Standorte. Standardmäßig werden nur die aktiven Standorte angezeigt. Mit dem Schalter "Deaktivierte Standorte anzeigen" kann die Ansicht umgeschaltet werden, um nur die deaktivierten Standorte anzuzeigen. 
 

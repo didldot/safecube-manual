@@ -1,10 +1,12 @@
 # Cubes/Standorte Tab
 
-![Übersicht Standorte Tabelle](assets/cubes%20standorte%20tab/grafik.png)
+<ImageCaption
+    src="/cubes-standorte-tab/grafik.png"
+    alt="Übersicht Standorte Tabelle"
+    caption="Übersicht Standorte Tabelle"
+/>
 
-Übersicht Standorte Tabelle
-
-# Standorte Tabelle
+## Standorte Tabelle
 
 Hier werden die Standorte angezeigt, die dem Cube zugewiesen sind.
 
