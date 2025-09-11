@@ -86,8 +86,6 @@ Voraussetzungen für die Anzeige des "Simplified Layout":
 - “Einstellungen/Standortüberprüfung deaktivieren” muss aktiviert sein
 - Es darf nur eine Fachgröße geben
 
-![grafik.png](assets/standorte%20buchung%20tab/grafik%207.png)
-
 <ImageCaption
     src="/standorte-buchung-tab/grafik7.png"
     alt="Hinweis nur 1x öffnen möglich"
@@ -100,11 +98,10 @@ Nur aktiv, wenn auch [Buchung aktivieren](#buchung-aktivieren) aktiv ist.
 
 Hier können jeweils ein Link zu den *Allgemeinen Geschäftsbedingungen* und der *Datenschutzerkärung* eingetragen werden. Der Link muss öffentlich zugänglich sein. Wahlweise kann angegeben werden, ob die Verlinkung in den Emails angezeigt werden soll.
 
-![Beispiel wie die Verlinkung in der Email aussieht](assets/standorte%20buchung%20tab/grafik%208.png)
 <ImageCaption
     src="/standorte-buchung-tab/grafik8.png"
-    alt="Verlinkung in der E-Mail"
-    caption="Verlinkung in der E-Mail"
+    alt="VBeispiel wie die Verlinkung in der Email aussieht"
+    caption="Beispiel wie die Verlinkung in der Email aussieht"
 />
 
 Die Verlinkung wird auch am Terminal (am Cube) und online angezeigt und die AGB’s bzw. Datenschutzerklärung muss akzeptiert werden, damit ein Fach gebucht werden kann.
@@ -165,7 +162,7 @@ Wenn gebucht aber nicht bezahlt wurde, dann wird die Buchung nach den eingetrage
 
 ### Kunden an ausstehende Zahlung erinnern
 
-Erinnerungs E-Mail wird automatisch verschickt nach der halben Zeit, die bei [Unbezahlte Buchung wurde stornieren nach (Minuten)](#unbezahlte-buchung-wurde-stornieren-nach-minuten)  eingetragen ist. 
+Erinnerungs E-Mail wird automatisch verschickt nach der halben Zeit, die bei [Unbezahlte Buchung wurde storniert nach (Minuten)](#unbezahlte-buchung-wurde-storniert-nach-minuten)  eingetragen ist. 
 
 Falls nichts eingetragen ist, dann erfolgt die Erinnerung nach 30 Minuten.
 

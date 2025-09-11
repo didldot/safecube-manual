@@ -24,8 +24,6 @@ Der hier eingetragene Text erscheint am Terminal des Cubes. Er dient als Hinweis
 
 Der Text kann mit HTML-Tags formatiert werden.
 
-![Erinnerung, dass Rabattcodes eingelöst werden können.](assets/standorte%20text%20tab/grafik%202.png)
-
 <ImageCaption
     src="/standorte-text-tab/grafik2.png"
     alt="Terminal: Erinnerung, dass Rabattcodes eingelöst werden können"
