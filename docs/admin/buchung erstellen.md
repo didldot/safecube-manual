@@ -19,8 +19,6 @@ Folgende Felder stehen bei der Buchungserstellung zur Verfügung:
 
 Wenn die Buchung erfolgreich erstellt wurde, wird die [Detailansicht der Buchung](buchung%20detail.md) angezeigt.
 
-![Beispiel für Detailansicht der Buchung](assets/buchung%20erstellen/grafik%201.png)
-
 <ImageCaption
     src="/buchung-erstellen/grafik1.png"
     alt="Detailansicht der Buchung"
@@ -30,8 +28,6 @@ Wenn die Buchung erfolgreich erstellt wurde, wird die [Detailansicht der Buchung
 ## Buchung kann nicht erstellt werden
 
 Falls nicht alle zwingend notwendigen Daten eingegeben wurden und daher keine Buchung erstellt werden kann, wird eine entsprechende Meldung angezeigt.
-
-![Buchung konnte nicht erstellt werden, weil das Datum fehlt](assets/buchung%20erstellen/grafik%202.png)
 
 <ImageCaption
     src="/buchung-erstellen/grafik2.png"
